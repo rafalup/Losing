@@ -19,5 +19,8 @@
   "homepage": "https://github.com/mazarafa/Losing#readme",
   "dependencies": {
     "puppeteer": "^3.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
